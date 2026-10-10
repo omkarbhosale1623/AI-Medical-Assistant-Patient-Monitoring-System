@@ -164,12 +164,6 @@ medassist-ai/
 
 ---
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines, coding conventions, branch naming, and PR requirements.
-
----
-
 ## Contact
 
 - Omkar Bhosale
